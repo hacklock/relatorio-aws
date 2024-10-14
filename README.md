@@ -1,7 +1,7 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 01/10/2024
-Empresa: Liga Industries 
+Empresa: Liga Industries <br>
 Responsável: Wilton Ribeiro Cruz
 
 ## Introdução
